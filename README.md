@@ -22,12 +22,6 @@ These filters allow users to explore infrastructure performance from different p
 
 ---
 
-## 📷 Dashboard Preview
-
-https://github.com/Mahathi1911/Cloud-IT-Operations-Analytics/blob/main/README.md#:~:text=Dashboard.-,png,-Tableau
-
----
-
 ## 🎯 Project Objectives
 
 The main objectives of this project are to:
