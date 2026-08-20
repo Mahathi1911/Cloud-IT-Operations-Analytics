@@ -24,7 +24,7 @@ These filters allow users to explore infrastructure performance from different p
 
 ## 📷 Dashboard Preview
 
-![Cloud & IT Operations Analytics Dashboard](Screenshots/Dashboard.png)
+https://github.com/Mahathi1911/Cloud-IT-Operations-Analytics/blob/main/README.md#:~:text=Dashboard.-,png,-Tableau
 
 ---
 
