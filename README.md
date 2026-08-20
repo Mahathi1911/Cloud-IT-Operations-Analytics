@@ -143,6 +143,8 @@ Cloud-IT-Operations-Analytics/
 │
 └── README.md
 
+---
+
 ## 🚀 How to Explore the Project
 
 ### 1️⃣ Explore the Interactive Dashboard
