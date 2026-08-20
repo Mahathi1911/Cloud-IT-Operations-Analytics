@@ -124,27 +124,6 @@ Analyze infrastructure based on:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Cloud-IT-Operations-Analytics/
-│
-├── Data/
-│   └── cloud_it_operations_cleaned.csv
-│
-├── Python/
-│   └── clean_cloud_data.py
-│
-├── Screenshots/
-│   └── Dashboard.png
-│
-├── Tableau/
-│   └── Cloud_IT_Operations_Analytics.twbx
-│
-└── README.md
-
----
-
 ## 🚀 How to Explore the Project
 
 ### 1️⃣ Explore the Interactive Dashboard
@@ -178,6 +157,27 @@ Use the interactive filters to explore the data.
 - 🌐 Published the final dashboard on Tableau Public.
 
 ---
+
+
+## 📂 Project Structure
+
+```text
+Cloud-IT-Operations-Analytics/
+│
+├── Data/
+│   └── cloud_it_operations_cleaned.csv
+│
+├── Python/
+│   └── clean_cloud_data.py
+│
+├── Screenshots/
+│   └── Dashboard.png
+│
+├── Tableau/
+│   └── Cloud_IT_Operations_Analytics.twbx
+│
+└── README.md
+
 
 ## 👩‍💻 Author
 
