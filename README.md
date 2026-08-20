@@ -177,17 +177,3 @@ Cloud-IT-Operations-Analytics/
 │   └── Cloud_IT_Operations_Analytics.twbx
 │
 └── README.md
-
----
-
-## 👩‍💻 Author
-
-### Mahathi Y A
-**B.Tech Information Technology Student**
-
-Interested in:
-
-- ☁️ Cloud Computing
-- 📊 Data Analytics
-- 📈 Data Visualization
-- 💻 Software Development
