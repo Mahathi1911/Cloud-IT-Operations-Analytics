@@ -178,11 +178,11 @@ Cloud-IT-Operations-Analytics/
 │
 └── README.md
 
+---
 
 ## 👩‍💻 Author
 
 ### Mahathi Y A
-
 **B.Tech Information Technology Student**
 
 Interested in:
