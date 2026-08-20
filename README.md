@@ -142,35 +142,3 @@ Cloud-IT-Operations-Analytics/
 │   └── Cloud_IT_Operations_Analytics.twbx
 │
 └── README.md
-
-🚀 How to Explore the Project
-Option 1 — Interactive Dashboard
-
-Open the Tableau Public dashboard:
-
-🔗 Explore the Interactive Dashboard
-
-Use the available filters to explore infrastructure performance.
-
-Option 2 — Explore the Files
-Open the Data folder to view the cleaned dataset.
-Open the Python folder to view the data-cleaning script.
-Open the Tableau folder to access the Tableau workbook.
-Open the Screenshots folder to view the dashboard preview.
-💡 Project Highlights
-Cleaned and prepared infrastructure operations data using Python.
-Built an interactive Tableau dashboard.
-Created KPI cards for important infrastructure metrics.
-Developed time-series visualizations for CPU and memory utilization.
-Compared errors and network traffic across regions.
-Analyzed response time by server type.
-Visualized server health and status distribution.
-Added interactive dashboard filters for deeper analysis.
-Published the dashboard on Tableau Public.
-👩‍💻 Author
-
-## Mahathi Y A
-B.Tech Information Technology Student
-Interested in Cloud Computing, Data Analytics, Data Visualization, and Software Development.
-
-⭐ If you found this project interesting, feel free to explore the dashboard and the project files!
